@@ -1,0 +1,14 @@
+{
+  "name": "devis-dental-website",
+  "version": "1.0.0",
+  "main": "Devis JS.js",
+  "scripts": {
+    "test": "nodemon Devis JS.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
